@@ -3,9 +3,10 @@ Commands:
 sudo apt update
 sudo apt upgrade
 sudo apt install g++
-
-
-
+sudo apt install ubuntu-restricted-extras
+sudo apt install gnome-tweak-tool
+sudo apt install snapd
+sudo apt install synaptic
 
 
 
