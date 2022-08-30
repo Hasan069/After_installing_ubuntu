@@ -1,6 +1,6 @@
 # open up firefox -> search Google chrome -> download chrome -> right click on the deb file and install. -> open chrome and sync main account.
 
-
+Install Dracula theme for the termimal. Download it from dracula theme website.
 
 
 Commands:
