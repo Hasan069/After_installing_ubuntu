@@ -8,15 +8,19 @@ Commands:
 
 
 sudo apt-get update && sudo apt-get upgrade -y
-sudo add-apt-repository universe
-sudo apt install vlc
-sudo apt install gparted
-sudo apt install g++
 sudo apt install ubuntu-restricted-extras
-sudo apt install gnome-tweaks
+sudo add-apt-repository universe
 sudo apt install snapd
+sudo apt install vlc
+sudo apt install caprine
+sudo apt install curl
+sudo apt install python3
+sudo snap install whatsdesk
+sudo apt install gparted
+sudo apt install gimp
+sudo apt install g++
+sudo apt install gnome-tweaks
 sudo apt install git
-sudo apt install carl
 sudo apt install bitwarden
 sudo apt install synaptic
 gsettings set org.gnome.shell.extentions.dash-to-dock click-action 'minimize'
@@ -24,8 +28,8 @@ sudo snap install vim
 sudo apt install vs-code
 sudo snap install discord
 sudo apt install neofetch
+sudo apt install chromium
 sudo apt-get install openjdk-11-jdk
-sudo apt install python3
 sudo fc-cache -f -v  // This will rebuild the system font cache. DO THIS AFTER CREATING A .font FOLDER AND PASTE THE FONTS INTO THAT.
 			            
 
