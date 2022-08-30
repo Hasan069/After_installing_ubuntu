@@ -55,3 +55,35 @@ windows key + d = google chrome
 
 
 
+
+GITHUB:
+
+
+
+make a directory at home folder -> mkdir .gitconfig . then Add the lines below(without comment)
+
+open a terminal in that directory. command ->  git remote add origin [URL of git] 
+//After creating a new repo or to use the existant reporjust add it. push after you write your code.
+
+
+
+//
+[user]
+	email = amihasan420@gmail.com
+[credential]
+	helper = cache
+//
+
+
+
+
+To push Code to git. Steps:
+
+1. gii init
+2. git add --a     // to add all the files in the directory
+3. git add [name of the file]
+4. git commit -m "why did you commit?"
+5. git commit -a -m "why did you commit?" // to skip staging time
+6. git push -u origin master OR git push 
+
+
