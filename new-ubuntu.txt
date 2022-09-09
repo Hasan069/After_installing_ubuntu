@@ -2,6 +2,7 @@
 
 Install Dracula theme for the termimal. Download it from dracula theme website.
 
+https://fahadahammed.com/single-command-to-download-and-install-all-bangla-fonts-in-your-linux/   -> To download and install Bangla fonts.
 
 Commands:
 
